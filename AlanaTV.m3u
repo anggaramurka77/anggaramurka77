@@ -40,3 +40,6 @@ http://tvnid.x10.mx/1/master-12.m3u8
 
 #EXTINF:-1 ,BTV
 http://tvnid.x10.mx/1/master-13.m3u8
+
+#EXTINF:-1 ,AYLA
+http://tvnid.x10.mx/1/master-14.m3u8
